@@ -511,15 +511,6 @@ a:hover .current .underline {
     margin-top: 50px;
 }
 
-.thanks {
-    margin-top: 17px;
-    color: #000;
-    font-size: 14px;
-    line-height: 17px;
-    font-family: 'probapro_italic';
-    text-align: justify;
-}
-
 .yellow-intro {
     width: 100%;
     min-width: 1025px;
@@ -527,60 +518,35 @@ a:hover .current .underline {
 }
 
 .yellow-intro .yellow-intro-wrapper {
-    height: 500px;
-    width: 1025px;
+    height: 590px;
+    width: 940px;
     position: relative;
     margin: 0 auto;
 }
 
-.yellow-intro.grey {
-    background-color: #C5C5C4;
-}
-
-.yellow-intro.grey .yellow-intro-wrapper .text {
-    max-height: 225px;
-}
-
 .yellow-intro .yellow-intro-wrapper .text {
-    padding-left: 33px;
-    width: 469px;
-    float: left;
+    width: 380px;
+    position: absolute;
+    bottom: 35px;
+    right: 0;
     text-align: justify;
-    color: #BABCBE;
-    font-size: 18px;
-    line-height: 21px;
-    font-family: 'militia';
-}
-
-.yellow-intro.grey .yellow-intro-wrapper .text {
     color: #fff;
-}
-
-.yellow-intro .yellow-intro-wrapper .author-part {
-    width: 230px;
-    right: 33px;
-    text-align: right;
-}
-
-.yellow-intro .yellow-intro-wrapper .text.author {
-    font-size: 18px;
+    font-size: 14px;
     line-height: 18px;
-    font-family: 'militia';
-    text-align: left;
-    color: #231F20;
-    padding: 0;
-    width: 100%;
+    font-family: 'probapro_bold';
+}
+
+.yellow-intro .yellow-intro-wrapper .title {
+    position: absolute;
+    width: 228px;
+    top: 33px;
+    right: 0;
+    color: #fff;
+    font-size: 36px;
+    line-height: 43px;
+    font-family: 'probapro_bold';
     text-transform: uppercase;
     text-align: right;
-}
-
-.yellow-intro .yellow-intro-wrapper .text.title {
-    font-size: 24px;
-    line-height: 26px;
-    font-family: 'trixie_thin';
-    text-align: left;
-    color: #fff;
-    padding: 0;
 }
 
 .painting-description {
@@ -1242,4 +1208,11 @@ footer:after {
 
 .main-wrapper img.full-image {
     width: 1025px;
+}
+
+.yellow-intro.background-image {
+    max-width: 100%;
+    height: 590px;
+    background: url(/app/templates/default/images/8/0.jpg) no-repeat center;
+    background-size: cover;
 }
