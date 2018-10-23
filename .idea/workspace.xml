@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="6365842e-9679-4ecd-aa64-4e3dc136d965" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/language/ru/Welcome.php" afterPath="$PROJECT_DIR$/app/language/ru/Welcome.php" />
+      <change beforePath="$PROJECT_DIR$/app/templates/default/css/jquery.bxslider.css" afterPath="$PROJECT_DIR$/app/templates/default/css/jquery.bxslider.css" />
       <change beforePath="$PROJECT_DIR$/app/templates/default/css/style.css" afterPath="$PROJECT_DIR$/app/templates/default/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/app/templates/default/header.php" afterPath="$PROJECT_DIR$/app/templates/default/header.php" />
+      <change beforePath="$PROJECT_DIR$/app/templates/default/js/jquery.bxslider.js" afterPath="$PROJECT_DIR$/app/templates/default/js/jquery.bxslider.js" />
+      <change beforePath="$PROJECT_DIR$/app/templates/default/js/main.js" afterPath="$PROJECT_DIR$/app/templates/default/js/main.js" />
       <change beforePath="$PROJECT_DIR$/app/views/welcome/ukr.php" afterPath="$PROJECT_DIR$/app/views/welcome/ukr.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,9 +36,13 @@
       <file leaf-file-name="ukr.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/welcome/ukr.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="122" column="22" lean-forward="false" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
-              <folding />
+            <state relative-caret-position="477">
+              <caret line="260" column="22" lean-forward="false" selection-start-line="260" selection-start-column="22" selection-end-line="260" selection-end-column="22" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#3;n#main#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#3;n#main#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#6;n#main#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -41,8 +50,8 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/templates/default/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="149" column="13" lean-forward="false" selection-start-line="149" selection-start-column="13" selection-end-line="149" selection-end-column="13" />
+            <state relative-caret-position="346">
+              <caret line="102" column="29" lean-forward="false" selection-start-line="102" selection-start-column="29" selection-end-line="102" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -52,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/app/templates/default/js/jquery.bxslider.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="463">
-              <caret line="104" column="0" lean-forward="true" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+              <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -63,8 +72,8 @@
       <file leaf-file-name="jquery.bxslider.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/templates/default/css/jquery.bxslider.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="853">
-              <caret line="106" column="16" lean-forward="true" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="16" />
+            <state relative-caret-position="324">
+              <caret line="99" column="22" lean-forward="false" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -73,8 +82,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/templates/default/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="528" column="23" lean-forward="true" selection-start-line="528" selection-start-column="23" selection-end-line="528" selection-end-column="23" />
+            <state relative-caret-position="564">
+              <caret line="627" column="18" lean-forward="false" selection-start-line="627" selection-start-column="18" selection-end-line="627" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -92,9 +101,24 @@
       <find>slider-1</find>
       <find>full-image</find>
       <find>.yellow-intro .yellow-intro-wrapper</find>
+      <find>укриття</find>
+      <find>knyazh</find>
+      <find>#e15384</find>
+      <find>li .painting-description-slide</find>
+      <find>li .painting-description-slidek</find>
+      <find>slider-</find>
+      <find>sliderpoint_ontap.svg</find>
+      <find>sliderpoint_standby.svg</find>
+      <find>slider-2</find>
+      <find>sliderpoint_active.svg</find>
+      <find>$j</find>
+      <find>#gallery</find>
+      <find>5</find>
+      <find>slider-5</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/app/templates/default/js</dir>
+      <dir>$PROJECT_DIR$/app</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -103,9 +127,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/templates/default/js/main.js" />
+        <option value="$PROJECT_DIR$/app/templates/default/header.php" />
         <option value="$PROJECT_DIR$/app/templates/default/css/jquery.bxslider.css" />
         <option value="$PROJECT_DIR$/app/templates/default/css/style.css" />
+        <option value="$PROJECT_DIR$/app/templates/default/js/main.js" />
         <option value="$PROJECT_DIR$/app/views/welcome/ukr.php" />
       </list>
     </option>
@@ -122,10 +147,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1440" />
-    <option name="y" value="78" />
     <option name="width" value="1440" />
-    <option name="height" value="825" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -150,6 +173,45 @@
             <path>
               <item name="locals" type="b2602c69:ProjectViewProjectNode" />
               <item name="locals" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="locals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="locals" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="locals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="locals" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="locals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="locals" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="default" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="locals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="locals" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="default" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="locals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="locals" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="locals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="locals" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="welcome" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -193,18 +255,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540215898886</updated>
-      <workItem from="1540215901092" duration="8716000" />
+      <workItem from="1540215901092" duration="15474000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8716000" />
+    <option name="totallyTimeSpent" value="15474000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13958333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -246,26 +308,10 @@
     <entry file="file://$PROJECT_DIR$/app/templates/default/js/jquery.bxslider.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="463">
-          <caret line="104" column="0" lean-forward="true" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/default/css/jquery.bxslider.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="853">
-          <caret line="106" column="16" lean-forward="true" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/default/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="149" column="13" lean-forward="false" selection-start-line="149" selection-start-column="13" selection-end-line="149" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -277,19 +323,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/default/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/default/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/default/css/jquery.bxslider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="99" column="22" lean-forward="false" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/default/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="528" column="23" lean-forward="true" selection-start-line="528" selection-start-column="23" selection-end-line="528" selection-end-column="23" />
+        <state relative-caret-position="564">
+          <caret line="627" column="18" lean-forward="false" selection-start-line="627" selection-start-column="18" selection-end-line="627" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/default/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="102" column="29" lean-forward="false" selection-start-line="102" selection-start-column="29" selection-end-line="102" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/welcome/ukr.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="122" column="22" lean-forward="false" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
-          <folding />
+        <state relative-caret-position="477">
+          <caret line="260" column="22" lean-forward="false" selection-start-line="260" selection-start-column="22" selection-end-line="260" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#3;n#main#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#3;n#main#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#6;n#main#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

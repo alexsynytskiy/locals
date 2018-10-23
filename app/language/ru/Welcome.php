@@ -5,7 +5,7 @@
 return array(
 
     // Index method
-    'title' => 'Укриття',
-    'subpage_text' => 'Shelter',
+    'title' => 'Місцеві',
+    'subpage_text' => 'Locals',
 
 );

@@ -6,7 +6,7 @@
 
     <div id="header-big-top" class="header-top">
         <div class="header-top-wrapper">
-            <a href="http://www.knyazhahora.com/">
+            <a href="http://chervonechorne.com/">
                 <div class="back-button">
                     <img src="/app/templates/default/images/arrow_standby.svg" style="overflow:hidden;" />
                     <div class="text-back-main">
@@ -20,7 +20,7 @@
 
     <div id="header-small-top" class="header-top hideMenu">
         <div class="header-top-wrapper">
-            <a href="http://www.knyazhahora.com/">
+            <a href="http://chervonechorne.com/">
                 <div class="back-button">
                     <img src="/app/templates/default/images/arrow_standby.svg" style="overflow:hidden;" />
                     <div class="text-back-main">
@@ -110,6 +110,134 @@
                     <div class="red-border"></div>
                 </div>
 
+                <div class="main-wrapper">
+                    <div class="slider-not-first">
+                        <ul class="slider-2">
+                            <li>
+                                <img src="/app/templates/default/images/3/1.jpg" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Рисунки</div>
+                                    <div class="text">&nbsp  / папір, акрил, 52 x 64 см, 2017</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/3/2.jpg" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Рисунки</div>
+                                    <div class="text">&nbsp  / папір, акрил, 52 x 64 см, 2017</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/3/3.jpg" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Рисунки</div>
+                                    <div class="text">&nbsp  / папір, акрил, 52 x 64 см, 2017</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/3/4.jpg" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Рисунки</div>
+                                    <div class="text">&nbsp  / папір, акрил, 52 x 64 см, 2017</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/3/5.jpg" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Рисунки</div>
+                                    <div class="text">&nbsp  / папір, акрил, 52 x 64 см, 2017</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/3/6.jpg" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Рисунки</div>
+                                    <div class="text">&nbsp  / папір, акрил, 52 x 64 см, 2017</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/3/7.jpg" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Рисунки</div>
+                                    <div class="text">&nbsp  / папір, акрил, 52 x 64 см, 2017</div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div style="height: 30px"></div>
+
+                    <div class="slider-not-first">
+                        <ul class="slider-3">
+                            <li>
+                                <img src="/app/templates/default/images/4/1.jpg" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Етюди</div>
+                                    <div class="text">&nbsp / полотно, акрил, 21,5 x 30 см, 2017</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/4/2.jpg" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Етюди</div>
+                                    <div class="text">&nbsp / полотно, акрил, 21,5 x 30 см, 2017</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/4/3.jpg" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Етюди</div>
+                                    <div class="text">&nbsp / полотно, акрил, 21,5 x 30 см, 2017</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/4/4.jpg" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Етюди</div>
+                                    <div class="text">&nbsp / полотно, акрил, 21,5 x 30 см, 2017</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/4/5.jpg" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Етюди</div>
+                                    <div class="text">&nbsp / полотно, акрил, 21,5 x 30 см, 2017</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/4/6.jpg" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Етюди</div>
+                                    <div class="text">&nbsp / полотно, акрил, 21,5 x 30 см, 2017</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/4/7.jpg" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Етюди</div>
+                                    <div class="text">&nbsp / полотно, акрил, 21,5 x 30 см, 2017</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/4/8.jpg" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Етюди</div>
+                                    <div class="text">&nbsp / полотно, акрил, 21,5 x 30 см, 2017</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/4/9.jpg" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Етюди</div>
+                                    <div class="text">&nbsp / полотно, акрил, 21,5 x 30 см, 2017</div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div style="height: 88px"></div>
+                </div>
+
                 <div class="yellow-intro background-image" >
                     <div class="yellow-intro-wrapper">
                         <div class="text">
@@ -130,6 +258,77 @@
                             <div class="text">&nbsp / полотно, акрил, 200 х 300 см, 2017</div>
                         </div>
                     </div>
+                </div>
+
+                <div class="main-wrapper">
+                    <div style="height: 40px"></div>
+                    <div class="slider-not-first">
+                        <ul class="slider-5">
+                            <li>
+                                <img src="/app/templates/default/images/9/1.jpg" />
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/9/2.jpg" />
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/9/3.jpg" />
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/9/4.jpg" />
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/9/5.jpg" />
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/9/6.jpg" />
+                            </li>
+                        </ul>
+                    </div>
+
+                    <ul id="gallery-thumbs" class="gallery-thumbs-list">
+                        <li class="thumb-item">
+                            <div class="thumb">
+                                <a href="">
+                                    <img src="/app/templates/default/images/9/1.jpg" />
+                                </a>
+                            </div>
+                        </li>
+                        <li class="thumb-item">
+                            <div class="thumb">
+                                <a href="">
+                                    <img src="/app/templates/default/images/9/2.jpg" />
+                                </a>
+                            </div>
+                        </li>
+                        <li class="thumb-item">
+                            <div class="thumb">
+                                <a href="">
+                                    <img src="/app/templates/default/images/9/3.jpg" />
+                                </a>
+                            </div>
+                        </li>
+                        <li class="thumb-item">
+                            <div class="thumb">
+                                <a href="">
+                                    <img src="/app/templates/default/images/9/4.jpg" />
+                                </a>
+                            </div>
+                        </li>
+                        <li class="thumb-item">
+                            <div class="thumb">
+                                <a href="">
+                                    <img src="/app/templates/default/images/9/5.jpg" />
+                                </a>
+                            </div>
+                        </li>
+                        <li class="thumb-item">
+                            <div class="thumb">
+                                <a href="">
+                                    <img src="/app/templates/default/images/9/6.jpg" />
+                                </a>
+                            </div>
+                        </li>
+                    </ul>
                 </div>
 
                 <footer>

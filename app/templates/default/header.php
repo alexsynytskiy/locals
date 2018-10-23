@@ -17,8 +17,8 @@ $hooks = Hooks::get();
 	<meta charset="utf-8">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=device-width, maximum-scale=1.0, user-scalable=yes">
-	<meta name="keywords" content="ралко, будніков, укриття, галерея, червоне, чорне" />
-	<meta name="description" content="Галерея Червонечорне - Укриття Влада Ралко Володимир Будніков" />
+	<meta name="keywords" content="олександр, бабак, галерея, червоне, чорне" />
+	<meta name="description" content="Галерея Червонечорне - Місцеві Олександр бабак" />
 	<link rel="shortcut icon" href="/app/templates/default/images/favicon.png" type="image/png" />
 	<link rel="apple-touch-icon-precomposed" href="/app/templates/default/images/ios_page_icon.png"/>
 	<?php
