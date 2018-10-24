@@ -651,6 +651,21 @@ a:hover .current .underline {
     margin: 0 auto;
 }
 
+.slider-6 {
+    height: 336px;
+    width: 1025px;
+}
+
+.slider-6 li {
+    position: relative;
+    height: 336px;
+}
+
+.bx-wrapper .slider-6 img {
+    height: 288px;
+    margin: 0 auto;
+}
+
 li img {
     max-width: 1025px;
     overflow: hidden;
@@ -1293,4 +1308,13 @@ footer:after {
     text-align: right;
     letter-spacing: 5.5px;
     margin-bottom: 0;
+}
+
+.slider-6 li {
+    width: initial !important;
+}
+
+.slider-6 li .painting-description-slide {
+    left: 0;
+    bottom: 16px;
 }

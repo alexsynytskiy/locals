@@ -243,60 +243,55 @@
                         <div class="slider-not-first" style="float: left">
                             <ul class="slider-4">
                                 <li>
-                                    <img src="/app/templates/default/images/7/1.JPG" />
-
+                                    <img src="/app/templates/default/images/portraits/1.jpg" />
                                 </li>
                                 <li>
-                                    <img src="/app/templates/default/images/7/2.JPG" />
-
+                                    <img src="/app/templates/default/images/portraits/2.jpg" />
                                 </li>
                                 <li>
-                                    <img src="/app/templates/default/images/7/3.JPG" />
-
+                                    <img src="/app/templates/default/images/portraits/3.jpg" />
                                 </li>
                                 <li>
-                                    <img src="/app/templates/default/images/7/4.JPG" />
-
+                                    <img src="/app/templates/default/images/portraits/4.jpg" />
                                 </li>
                                 <li>
-                                    <img src="/app/templates/default/images/7/5.JPG" />
-
+                                    <img src="/app/templates/default/images/portraits/5.jpg" />
                                 </li>
                                 <li>
-                                    <img src="/app/templates/default/images/7/6.JPG" />
-
+                                    <img src="/app/templates/default/images/portraits/6.jpg" />
                                 </li>
                                 <li>
-                                    <img src="/app/templates/default/images/7/7.JPG" />
-
+                                    <img src="/app/templates/default/images/portraits/7.jpg" />
                                 </li>
                                 <li>
-                                    <img src="/app/templates/default/images/7/8.JPG" />
-
+                                    <img src="/app/templates/default/images/portraits/8.jpg" />
                                 </li>
                                 <li>
-                                    <img src="/app/templates/default/images/7/9.JPG" />
-
+                                    <img src="/app/templates/default/images/portraits/9.jpg" />
                                 </li>
                                 <li>
-                                    <img src="/app/templates/default/images/7/10.JPG" />
-
+                                    <img src="/app/templates/default/images/portraits/10.jpg" />
                                 </li>
                                 <li>
-                                    <img src="/app/templates/default/images/7/11.JPG" />
-
+                                    <img src="/app/templates/default/images/portraits/11.jpg" />
                                 </li>
                                 <li>
-                                    <img src="/app/templates/default/images/7/12.JPG" />
-
+                                    <img src="/app/templates/default/images/portraits/12.jpg" />
                                 </li>
                                 <li>
-                                    <img src="/app/templates/default/images/7/13.JPG" />
-
+                                    <img src="/app/templates/default/images/portraits/13.jpg" />
                                 </li>
                                 <li>
-                                    <img src="/app/templates/default/images/7/14.JPG" />
-
+                                    <img src="/app/templates/default/images/portraits/14.jpg" />
+                                </li>
+                                <li>
+                                    <img src="/app/templates/default/images/portraits/15.jpg" />
+                                </li>
+                                <li>
+                                    <img src="/app/templates/default/images/portraits/16.jpg" />
+                                </li>
+                                <li>
+                                    <img src="/app/templates/default/images/portraits/17.jpg" />
                                 </li>
                             </ul>
 
@@ -312,7 +307,96 @@
                 <div class="main-wrapper">
                     <img src="/app/templates/default/images/6.jpg" class="full-image" />
 
-                    <div style="height: 50px"></div>
+                    <div style="height: 45px"></div>
+
+                    <div class="slider-first" style="margin-bottom: 98px">
+                        <ul class="slider-6">
+                            <li>
+                                <img src="/app/templates/default/images/7/1.JPG" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold" style="font-size: 13px">Зінаїда Панасівна Тарахан-Береза</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/7/2.JPG" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Катерина Феодосіївна Чичикало</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/7/3.JPG" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Сергій Андрійович Радько</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/7/4.JPG" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Віктор Михайлович Цапко</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/7/5.JPG" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Людмила Іванівна Бутенко</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/7/6.JPG" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Етюди</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/7/7.JPG" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Етюди</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/7/8.JPG" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Етюди</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/7/9.JPG" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Етюди</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/7/10.JPG" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Етюди</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/7/11.JPG" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Етюди</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/7/12.JPG" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Етюди</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/7/13.JPG" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Етюди</div>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/7/14.JPG" />
+                                <div class="painting-description-slide">
+                                    <div class="text bold">Етюди</div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
 
                 <div class="yellow-intro background-image" >

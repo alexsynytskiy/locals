@@ -161,6 +161,14 @@
             infiniteLoop: false
         });
 
+        $('.slider-6').bxSlider({
+            slideHeight: 336,
+            maxSlides: 5,
+            minSlides: 5,
+            slideMargin: 20,
+            pager: false,
+            infiniteLoop: true
+        });
 
         $('.slider-not-first .bx-prev').prepend('<img src="/app/templates/default/images/arrow_standby.svg" />');
         $('.slider-not-first .bx-next').prepend('<img src="/app/templates/default/images/arrow_standby.svg" />');
