@@ -1,5 +1,3 @@
-/* Your styles here */
-
 @font-face {
     font-family: 'probapro_regular';
     src: url('/app/templates/default/css/fonts/ProbaPro-Regular.otf') format('opentype');
@@ -164,7 +162,6 @@ header.fixed {
     right: 0;
     top: 23px;
     margin: 0 auto;
-
 }
 
 #header-small-top .header-top-wrapper {
@@ -397,72 +394,6 @@ header.fixed {
     margin-left: auto;
     margin-right: auto;
     margin-top: 10px;
-}
-
-.languages {
-    float: right;
-    margin-right: 33px;
-    margin-top: 53px;
-}
-
-.languages a {
-    color: #000;
-    font-size: 12px;
-    font-family: 'gothapro_regular';
-    text-decoration: none;
-    text-transform: uppercase;
-    float: left;
-    -webkit-transition: color 0.5s;
-    -moz-transition: color 0.5s;
-    -ms-transition: color 0.5s;
-    -o-transition: color 0.5s;
-    transition: color 0.5s;
-}
-
-.languages a:first-child {
-    margin-bottom: 8px;
-}
-
-.languages a .current {
-    color: #e34578;
-    -webkit-transition: color 0.5s;
-    -moz-transition: color 0.5s;
-    -ms-transition: color 0.5s;
-    -o-transition: color 0.5s;
-    transition: color 0.5s;
-}
-
-a .underline {
-    display: block;
-    position: relative;
-    padding: 0;
-    width: 100%;
-    height: 1px;
-    bottom: 35%;
-    right: 0;
-    background-color: #000;
-    -webkit-transition: all 0.25s ease-in-out 0s;
-    transition: all 0.25s ease-in-out 0s;
-    -webkit-transform: scaleX(0);
-    transform: scaleX(0);
-}
-
-a .current .underline {
-    background-color: #e34578;
-    -webkit-transition: all 0.25s ease-in-out 0s;
-    transition: all 0.25s ease-in-out 0s;
-    -webkit-transform: scaleX(1);
-    transform: scaleX(1);
-}
-
-a:hover .underline {
-    -webkit-transform: scaleX(1);
-    transform: scaleX(1);
-}
-
-a:hover .current .underline {
-    -webkit-transform: scaleX(0);
-    transform: scaleX(0);
 }
 
 .site-content {
@@ -924,12 +855,12 @@ footer:after {
 }
 
 ::-moz-selection {
-    background: #e34578;
+    background: #D0021B;
     color: #000;
 }
 
 ::selection {
-    background: #e34578;
+    background: #D0021B;
     color: #000;
 }
 
