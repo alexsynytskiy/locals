@@ -15,7 +15,7 @@
         $(window).on('scroll', function (event) {
             if ($(this).scrollTop() < 930 && $menu.hasClass("showMenu")) {
                 $menu.stop().animate({
-                        top: '-75px',
+                        top: '-75px'
                     }, 400,
                     function () {
                     }
@@ -31,7 +31,7 @@
                 }
                 if ($menu.hasClass("showMenu") && $(this).scrollTop() > $menu.attr('data-scroll')) {
                     $menu.stop().animate({
-                            top: '-75px',
+                            top: '-75px'
                         }, 400,
                         function () {
                         }
@@ -41,7 +41,7 @@
                 }
                 if ($menu.hasClass("hideMenu") && $(this).scrollTop() < $menu.attr('data-scroll')) {
                     $menu.stop().animate({
-                            top: 0,
+                            top: 0
                         }, 400,
                         function () {
                         }
@@ -82,12 +82,20 @@
             pager: false
         });
 
-        $('.slider-4').bxSlider({
-            slideWidth: 1025,
-            slideHeight: 405,
+        var slider4 = $('.slider-4').bxSlider({
+            slideWidth: 300,
+            slideHeight: 373,
             maxSlides: 1,
             minSlides: 1,
-            slideMargin: 0
+            slideMargin: 0,
+            controls: false,
+            infiniteLoop: true,
+            pager: false
+        });
+
+        $('a.pager-next.custom-next').click(function (e) {
+            slider4.goToNextSlide();
+            e.preventDefault();
         });
 
         // Cache the thumb selector for speed

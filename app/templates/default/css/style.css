@@ -566,6 +566,7 @@ a:hover .current .underline {
     font-family: 'probapro_bold';
     text-transform: uppercase;
     text-align: right;
+    letter-spacing: 5.5px;
 }
 
 .painting-description {
@@ -632,6 +633,21 @@ a:hover .current .underline {
 .bx-wrapper .slider-2 img, .bx-wrapper .slider-3 img, .bx-wrapper .slider-5 img {
     height: 465px;
     max-width: 620px;
+    margin: 0 auto;
+}
+
+.slider-4 {
+    height: 373px;
+    width: 300px;
+}
+
+.slider-4 li {
+    position: relative;
+    height: 373px;
+    width: 300px;
+}
+
+.bx-wrapper .slider-4 img {
     margin: 0 auto;
 }
 
@@ -750,6 +766,9 @@ li .painting-description-slide .text.bold {
     font-size: 24px;
     letter-spacing: -2px;
     font-family: 'probapro_regular';
+    position: absolute;
+    bottom: 0;
+    right: 0;
 }
 
 .bx-wrapper .bx-pager .bx-pager-item {
@@ -1121,6 +1140,7 @@ footer:after {
     text-transform: uppercase;
     text-align: left;
     margin-bottom: 20px;
+    line-height: 29px;
 }
 
 .text-description .author-text-main {
@@ -1140,7 +1160,7 @@ footer:after {
     width: 100%;
     min-width: 1025px;
     overflow: hidden;
-    margin: 64px 0 40px 0;
+    margin: 108px 0 40px 0;
     position: relative;
 }
 
@@ -1180,3 +1200,97 @@ footer:after {
     overflow: hidden;
 }
 
+.grey-block {
+    max-width: 100%;
+    background-color: #D8D8D8;
+    padding: 54px 0 56px 0;
+}
+
+.grey-block-wrapper {
+    width: 940px;
+    margin: 0 auto;
+}
+
+.grey-block-wrapper .title {
+    color: #231F20;
+    font-family: 'probapro_regular', sans-serif;
+    letter-spacing: 2px;
+    line-height: 29px;
+    font-size: 24px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.grey-block-wrapper .title.sub-title {
+    line-height: 18px;
+    font-size: 14px;
+    margin-bottom: 12px;
+    letter-spacing: normal;
+}
+
+.grey-block-wrapper .description {
+    color: #231F20;
+    font-family: 'probapro_regular', sans-serif;
+    line-height: 18px;
+    font-size: 14px;
+    margin-bottom: 42px;
+    text-align: left;
+}
+
+.grey-block-wrapper .year {
+    color: #231F20;
+    font-family: 'probapro_bold', sans-serif;
+    line-height: 18px;
+    font-size: 14px;
+    margin-bottom: 7px;
+    text-align: left;
+}
+
+.grey-block-wrapper .event {
+    color: #231F20;
+    font-family: 'probapro_regular', sans-serif;
+    line-height: 18px;
+    font-size: 14px;
+    margin-bottom: 22px;
+    text-align: left;
+}
+
+.grey-block.slider {
+    padding: 40px 0;
+    margin-bottom: 40px;
+}
+
+.grey-block.slider .grey-block-wrapper {
+    position: relative;
+}
+
+.pager-next.custom-next {
+    width: 296px;
+    line-height: 60px;
+    height: 54px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #D0021B;
+    text-align: center;
+    margin-top: 20px;
+    text-decoration: none;
+    font-family: 'probapro_regular', sans-serif;
+    border: 2px solid #D0021B;
+    float: left;
+}
+
+.grey-block.slider .title {
+    position: absolute;
+    width: 228px;
+    top: 0;
+    right: 0;
+    color: #D0021B;
+    font-size: 36px;
+    line-height: 43px;
+    font-family: 'probapro_bold';
+    text-transform: uppercase;
+    text-align: right;
+    letter-spacing: 5.5px;
+    margin-bottom: 0;
+}

@@ -91,7 +91,7 @@
                     </div>
 
                     <div class="text-description">
-                        <div class="text-main-title">Валерій Сахарук</div>
+                        <div class="text-main-title">Канівський Триптіх</div>
                         Олександр Бабак приїздить до Канева третій рік поспіль. Щоправда, був ще один робочий візит – 2011-го. Тоді його полонила велич природи, властива цьому особливому, обраному місцю, – Дніпро, гора, острів навпроти, хмара, що вкриває все. Прозорі, майже «акварельні» полотна, створені художником, свідчили про нові враження не тільки від побаченого, а й від пережитого раніше – у далекі 1980-ті, коли він студентом художнього інституту почав писати канівські краєвиди.
                         <br>Подальші самостійні відвідини спричинилися до народження трьох проектів, які отримали назви «Канів, вул. Дніпровська», «Still Life» і «Місцеві». Що спонукало об’єднати їх формулою триптиха? Насамперед провідна ідея – авторське дослідження невеликої за розмірами території, затиснутої між річкою і канівськими схилами неподалік Чернечої гори. Усю увагу Олександр Бабак зосереджує на маленькій вуличці, що огинає готель «Княжа гора», – сьогодні на ній мешкає лише одна «місцева».
                         <br>Коли дивишся на фрагментовані зображення будинків і дерев з перших двох серій, складається враження, що художника цікавлять пластичні особливості своїх «моделей». Для цього існує кілька передумов, головною з яких є належність Бабака до класичної традиції розуміння малярства. Під поверхнею цього надзвичайно важливого складника кожного художнього твору лежить справжня мета дослідження – сукупність природних, історичних, урешті побутових характеристик, властивих саме цьому культурному ареалу.
@@ -238,11 +238,96 @@
                     <div style="height: 88px"></div>
                 </div>
 
+                <div class="grey-block slider">
+                    <div class="grey-block-wrapper clearfix">
+                        <div class="slider-not-first" style="float: left">
+                            <ul class="slider-4">
+                                <li>
+                                    <img src="/app/templates/default/images/7/1.JPG" />
+
+                                </li>
+                                <li>
+                                    <img src="/app/templates/default/images/7/2.JPG" />
+
+                                </li>
+                                <li>
+                                    <img src="/app/templates/default/images/7/3.JPG" />
+
+                                </li>
+                                <li>
+                                    <img src="/app/templates/default/images/7/4.JPG" />
+
+                                </li>
+                                <li>
+                                    <img src="/app/templates/default/images/7/5.JPG" />
+
+                                </li>
+                                <li>
+                                    <img src="/app/templates/default/images/7/6.JPG" />
+
+                                </li>
+                                <li>
+                                    <img src="/app/templates/default/images/7/7.JPG" />
+
+                                </li>
+                                <li>
+                                    <img src="/app/templates/default/images/7/8.JPG" />
+
+                                </li>
+                                <li>
+                                    <img src="/app/templates/default/images/7/9.JPG" />
+
+                                </li>
+                                <li>
+                                    <img src="/app/templates/default/images/7/10.JPG" />
+
+                                </li>
+                                <li>
+                                    <img src="/app/templates/default/images/7/11.JPG" />
+
+                                </li>
+                                <li>
+                                    <img src="/app/templates/default/images/7/12.JPG" />
+
+                                </li>
+                                <li>
+                                    <img src="/app/templates/default/images/7/13.JPG" />
+
+                                </li>
+                                <li>
+                                    <img src="/app/templates/default/images/7/14.JPG" />
+
+                                </li>
+                            </ul>
+
+                            <a href="#" class="pager-next custom-next">Наступне зображення</a>
+
+                            <div class="title">
+                                Місцеві
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="main-wrapper">
+                    <img src="/app/templates/default/images/6.jpg" class="full-image" />
+
+                    <div style="height: 50px"></div>
+                </div>
+
                 <div class="yellow-intro background-image" >
                     <div class="yellow-intro-wrapper">
                         <div class="text">
-                            Ця давня робота дивом (дивом?) уникла долі, без перебільшення, сотень таких самих, написаних у той самий період, – вони були свідомо і власноруч знищені. Протягом десятиліть, час від часу потрапляючи в поле зору, ця річ уперто «трималася за життя». Гадаю, більшою мірою через спогади та відчуття, з ними пов’язані, – місцевість, час, випадкова зустріч, «невідомий – незнайомець», фарби, що залишилися в етюднику ще від батька…
-                            Вкотре виринувши з упорядкованого безладу майстерні, пейзаж знайшов своє місце в колекції арт-резиденції «Княжа гора» серед ранніх робіт інших художників. Сказати більше – згадані почуття через десятиріччя вивели саме на таке рішення портретів – поряд з роботами іншого жанру – пейзажами. Адже спочатку було місце! На це вказує корінь слова – місцеві від місця. Місце формує тип, вдачу…
+                            Ця давня робота дивом (дивом?) уникла долі, без перебільшення, сотень таких самих,
+                            написаних у той самий період, – вони були свідомо і власноруч знищені. Протягом десятиліть,
+                            час від часу потрапляючи в поле зору, ця річ уперто «трималася за життя». Гадаю, більшою
+                            мірою через спогади та відчуття, з ними пов’язані, – місцевість, час, випадкова зустріч,
+                            «невідомий – незнайомець», фарби, що залишилися в етюднику ще від батька…
+                            Вкотре виринувши з упорядкованого безладу майстерні, пейзаж знайшов своє місце в колекції
+                            арт-резиденції «Княжа гора» серед ранніх робіт інших художників. Сказати більше – згадані
+                            почуття через десятиріччя вивели саме на таке рішення портретів – поряд з роботами іншого
+                            жанру – пейзажами. Адже спочатку було місце! На це вказує корінь слова – місцеві від місця.
+                            Місце формує тип, вдачу…
                         </div>
                         <div class="title">
                             Краєвиди
@@ -251,11 +336,93 @@
                 </div>
 
                 <div class="main-wrapper">
+                    <div style="height: 40px"></div>
                     <img src="/app/templates/default/images/8/1.jpg" class="full-image" />
                     <div class="painting-description">
                         <div class="title clearfix">
                             <div class="bold">Рілля (Невідомому)</div>
                             <div class="text">&nbsp / полотно, акрил, 200 х 300 см, 2017</div>
+                        </div>
+                    </div>
+                    <img src="/app/templates/default/images/8/2.jpg" class="full-image" />
+                    <div class="painting-description">
+                        <div class="title clearfix">
+                            <div class="bold">Дніпро</div>
+                            <div class="text">&nbsp / полотно, акрил, 200 х 300 см, 2017</div>
+                        </div>
+                    </div>
+                    <img src="/app/templates/default/images/8/3.jpg" class="full-image" />
+                    <div class="painting-description">
+                        <div class="title clearfix">
+                            <div class="bold">Курган</div>
+                            <div class="text">&nbsp / полотно, акрил, 200 х 300 см, 2017</div>
+                        </div>
+                    </div>
+                    <img src="/app/templates/default/images/8/4.jpg" class="full-image" />
+                    <div class="painting-description">
+                        <div class="title clearfix">
+                            <div class="bold">З гори</div>
+                            <div class="text">&nbsp / полотно, акрил, 200 х 450 см, 2017</div>
+                        </div>
+                    </div>
+                    <img src="/app/templates/default/images/8/5.jpg" class="full-image" />
+                    <div class="painting-description">
+                        <div class="title clearfix">
+                            <div class="bold">Зупинка</div>
+                            <div class="text">&nbsp / полотно, акрил, 200 х 300 см, 2017</div>
+                        </div>
+                    </div>
+                    <img src="/app/templates/default/images/8/6.jpg" class="full-image" />
+                    <div class="painting-description">
+                        <div class="title clearfix">
+                            <div class="bold">ЛЕП</div>
+                            <div class="text">&nbsp / полотно, акрил, 200 х 300 см, 2017</div>
+                        </div>
+                    </div>
+                    <img src="/app/templates/default/images/8/7.jpg" class="full-image" />
+                    <div class="painting-description">
+                        <div class="title clearfix">
+                            <div class="bold">Гатка</div>
+                            <div class="text">&nbsp / полотно, акрил, 200 х 450 см, 2017</div>
+                        </div>
+                    </div>
+                    <div style="height: 67px"></div>
+                </div>
+
+                <div class="grey-block">
+                    <div class="grey-block-wrapper">
+                        <div class="title">Олександр Бабак</div>
+                        <div class="description">
+                            Народився у Києві, живе і працює y Києві та Великому Перевозі, що на Полтавщині. 1974 року
+                            закінчив Республіканську художню школу ім. Т. Г. Шевченка, 1984-го – Київський державний
+                            художній інститут (нині Національна академія образотворчого мистецтва і архітектури).
+                            З 1988 року – член Національної спілки художників України.
+                        </div>
+                        <div class="title sub-title">
+                            Вибрані виставки
+                        </div>
+
+                        <div class="year">
+                            2017
+                        </div>
+                        <div class="event">
+                            «Країна», Закарпатський обласний художній музей ім. Й. Бокшая, Ужгород
+                            <br>«Still Life», Галерея ЧервонеЧорне (в рамках Українського тижня мистецтв), Київ
+                        </div>
+                        <div class="year">
+                            2016
+                        </div>
+                        <div class="event">
+                            «Still Life», Галерея ЧервонеЧорне, Канів
+                            <br>«New Paintings», Волошин Галерея, Київ
+                            <br>«Худшкола», Київський нацiональний музей росiйського мистецтва, Київ
+                        </div>
+                        <div class="year">
+                            2015
+                        </div>
+                        <div class="event">
+                            «Об’єм» (у рамках Великого скульптурного салону), Мистецький арсенал, Київ
+                            <br>«Село», Центральна виставкова зала Національної спілки художників України, Київ
                         </div>
                     </div>
                 </div>
@@ -281,6 +448,21 @@
                             </li>
                             <li>
                                 <img src="/app/templates/default/images/9/6.jpg" />
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/9/7.jpg" />
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/9/8.jpg" />
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/9/9.jpg" />
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/9/10.jpg" />
+                            </li>
+                            <li>
+                                <img src="/app/templates/default/images/9/11.jpg" />
                             </li>
                         </ul>
                     </div>
@@ -325,6 +507,41 @@
                             <div class="thumb">
                                 <a href="">
                                     <img src="/app/templates/default/images/9/6.jpg" />
+                                </a>
+                            </div>
+                        </li>
+                        <li class="thumb-item">
+                            <div class="thumb">
+                                <a href="">
+                                    <img src="/app/templates/default/images/9/7.jpg" />
+                                </a>
+                            </div>
+                        </li>
+                        <li class="thumb-item">
+                            <div class="thumb">
+                                <a href="">
+                                    <img src="/app/templates/default/images/9/8.jpg" />
+                                </a>
+                            </div>
+                        </li>
+                        <li class="thumb-item">
+                            <div class="thumb">
+                                <a href="">
+                                    <img src="/app/templates/default/images/9/9.jpg" />
+                                </a>
+                            </div>
+                        </li>
+                        <li class="thumb-item">
+                            <div class="thumb">
+                                <a href="">
+                                    <img src="/app/templates/default/images/9/10.jpg" />
+                                </a>
+                            </div>
+                        </li>
+                        <li class="thumb-item">
+                            <div class="thumb">
+                                <a href="">
+                                    <img src="/app/templates/default/images/9/11.jpg" />
                                 </a>
                             </div>
                         </li>
